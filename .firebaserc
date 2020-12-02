@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "auth-bc020",
+    "staging": "auth-bc020"
+  }
+}
